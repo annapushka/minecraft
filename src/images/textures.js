@@ -7,12 +7,12 @@ import {
     woodImg
 } from './images'
 
-const dirtTexture = new TextureLoader(dirtImg);
-const glassTexture = new TextureLoader(glassImg);
-const grassTexture = new TextureLoader(grassImg);
-const logTexture = new TextureLoader(logImg);
-const woodTexture = new TextureLoader(woodImg);
-const groundTexture = new TextureLoader(grassImg);
+const dirtTexture = new TextureLoader().load(dirtImg);
+const glassTexture = new TextureLoader().load(glassImg);
+const grassTexture = new TextureLoader().load(grassImg);
+const logTexture = new TextureLoader().load(logImg);
+const woodTexture = new TextureLoader().load(woodImg);
+const groundTexture = new TextureLoader().load(grassImg);
 
 export {
     dirtTexture,

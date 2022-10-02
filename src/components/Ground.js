@@ -7,7 +7,7 @@ import { groundTexture } from '../images/textures';
 
 const Ground = () => {
   const [ref] = usePlane(() => ({
-    rotation: [-Math.PI / 4, 0, 0],
+    rotation: [-Math.PI / 2, 0, 0],
     position: [0, 0, 0]
   }))
  

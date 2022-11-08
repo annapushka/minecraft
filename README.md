@@ -1,6 +1,6 @@
 # minecraft clone
 
-App with healthy recipes
+In progress...
 
 <img src="src/images/minecraft.gif" alt="avocado" width="250px"/>
 

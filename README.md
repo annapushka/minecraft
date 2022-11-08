@@ -2,7 +2,7 @@
 
 In progress...
 
-<img src="src/images/minecraft.gif" alt="avocado" width="250px"/>
+<img src="src/images/minecraft.gif" alt="avocado" width="400px"/>
 
 ## Technology stack
 <p><img src="src/images/HTML.png" alt="HTML" width="90rem"/>

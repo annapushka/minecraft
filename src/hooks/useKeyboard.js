@@ -42,7 +42,7 @@ export const useKeyboard = () => {
         }
     }, [])
 
-    const handleKeyUp = useCallback(() => {
+    const handleKeyUp = useCallback((e) => {
         const action = actionByKey(e.code)
         if(action) {
             setActions((prev) => {
